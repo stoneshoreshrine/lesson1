@@ -1,2 +1,0 @@
-name = "Timur"
-print(name)
